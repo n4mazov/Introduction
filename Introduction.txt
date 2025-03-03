@@ -1,0 +1,4 @@
+Name: Ismayil
+Surname: Namazov
+Age: 19
+Birthday: 08.04.2005
